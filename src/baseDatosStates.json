@@ -1,0 +1,248 @@
+{
+    "states": [
+        {
+            "name": "Amazonas",
+            "capital": "Puerto Ayacucho",
+            "location": "Region Guayana",
+            "tourism": "Este estado cuenta con selvas y sabanas a lo largo de su territorio, por lo que es perfecto para conectar con la naturaleza, cuenta con diversos puntos de interés como 'El Tobogán de la selva', 'La piedra del cocuy', 'Cerro Autana' entre otros.",
+            "weather": "Tropical lluvioso de selva, sin estación seca definida. Temperaturas medias de 28°C con precipitaciones durante todo el año.",
+            "relief": "Relieve muy variado, comenzando por sabanas hasta elevadas mesetas propias del escudo Guayanes denominadas 'tepuyes'",
+            "fauna and flora": "Gracias a las altas precipitaciones se puede encontrar una densa formación selvática, por lo que gran parte del estado, está cubierto por inmensas selvas, aunque también cuenta con sabanas de suelos secos y sabanas de suelos húmedos. La rica fauna de la región está representada por numerosos especímenes de mamíferos, reptiles, peces y aves, entre ellos: puma, jaguar, oso palmero, morrocoy, culebras, piraña, bagre, gavilán, guacamaya...",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Amazonas_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Anzóategui",
+            "capital": "Barcelona",
+            "location": "Region Nor-Oriental",
+            "tourism": "Es bien conocida por sus playas como 'Boca de Uchire', 'Puerto Piritu', los islotes de Mochima, 'Clarines'...",
+            "weather": "El litoral presenta un clima semiárido, temperatura anual de 26°C.",
+            "relief": "En su mayor parte pertenece a los Llanos Orientales, al norte tiene costas sobre el Mar Caribe y al sur sobre el río Orinoco.",
+            "fauna and flora": "Vegetación típica templada, abundan los aceitunos, araguaneys y cuji entre otros. Su fauna constituye gran variedad entre la cual podemos encontrar: arrendajo, turpiales, chigüire, manatí, nutria, etc. ",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Anzoategui_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Apure",
+            "capital": "San Fernando de Apure",
+            "location": "Región de los Llanos y de Los Andes",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Apure_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Aragua",
+            "capital": "Maracay",
+            "location": "Región Central",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Aragua_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Barinas",
+            "capital": "Barinas",
+            "location": "Región de los Llanos y Los Andes",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Barinas_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Bolívar",
+            "capital": "Ciudad Bolívar",
+            "location": "Región Guayana",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bolivar_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Carabobo",
+            "capital": "Valencia",
+            "location": "Región Central",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Carabobo_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Cojedes",
+            "capital": "San Carlos",
+            "location": "Región Central",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cojedes_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Delta Amacuro",
+            "capital": "Tucupita",
+            "location": "Región Nor-Oriental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Delta_Amacuro_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Falcón",
+            "capital": "Coro",
+            "location": "Región Centro-Occidental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Falcon_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Guárico",
+            "capital": "San Juan de los Morros",
+            "location": "Región de los Llanos",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/Guarico_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Lara",
+            "capital": "Barquisimeto",
+            "location": "Región Centro-Occidental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lara_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Mérida",
+            "capital": "Mérida",
+            "location": "Región de Los Andes",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Merida_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Miranda",
+            "capital": "Los Teques",
+            "location": "Región Capital",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Miranda_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Monagas",
+            "capital": "Maturín",
+            "location": "Región Nor-Oriental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Monagas_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Nueva Esparta",
+            "capital": "La Asunción",
+            "location": "Región Insular",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nueva_Esparta_in_Venezuela.svg"
+        },
+        {
+            "name": "Portuguesa",
+            "capital": "Guanare",
+            "location": "Región de los Llanos",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Portuguesa_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Sucre",
+            "capital": "Cumaná",
+            "location": "Región Nor-Oriental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sucre_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Táchira",
+            "capital": "San Cristóbal",
+            "location": "Región de Los Andes",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Tachira_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Trujillo",
+            "capital": "Trujillo",
+            "location": "Región de Los Andes",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Trujillo_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Vargas",
+            "capital": "La Guaira",
+            "location": "Región Capital",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vargas_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Yaracuy",
+            "capital": "San Felipe",
+            "location": "Región Centro-Occidental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yaracuy_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Zulia",
+            "capital": "Maracaibo",
+            "location": "Región Occidental",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Zulia_in_Venezuela_%28%2Bclaimed%29.svg"
+        },
+        {
+            "name": "Distrito Capital",
+            "capital": "Caracas",
+            "location": "Región Capital",
+            "tourism": "",
+            "weather": "",
+            "relief": "",
+            "fauna and flora": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Capital_District_in_Venezuela.svg"
+        }     
+    ]
+
+
+
+
+}
