@@ -2,8 +2,10 @@ const express = require('express');
 const app = express();
 const morgan = require('morgan');
 
+const variableImportada = require('./config.js');
+
 // settings
-app.set('port', process.env.PORT || 3000)
+// app.set('port', process.env.PORT || 3000)
 app.set('json spaces', 2)
 
 // middlewares
@@ -18,6 +20,5 @@ app.get('/', (req, res) => {
 })
 
 //starting the server
-app.listen(app.get('port'), () => {
-    console.log(`Server is on ${app.get('port')}`);
-})
+app.listen(variableImportada)
+console.log(`Server is on ${variableImportada}`);
