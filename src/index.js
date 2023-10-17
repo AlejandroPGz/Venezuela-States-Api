@@ -2,7 +2,8 @@ const express = require('express');
 const app = express();
 const morgan = require('morgan');
 const cors = require('cors');
-app.use(cors())
+miLocal = ['http://127.0.0.1:5500/']
+app.use(cors( { origin: miLocal } ))
 const variableImportada = require('./config.js');
 
 // settings
